@@ -1,2 +1,2 @@
 # todo-angular
-Angular + material, Node.js express + sqlate3, testing task
+Angular 9, Node.js + Express, LiteSQL
